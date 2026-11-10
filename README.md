@@ -36,7 +36,8 @@ npm install
 ```bash
 npm run start:watch
 ```
-**O servidor estará rodando em http://localhost:3333
+** Servidor rodando em http://localhost:3333
+
 ---
 
 ## 🏎️💨 Endpoints (Objetivo da Aplicação)
