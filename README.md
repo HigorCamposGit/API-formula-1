@@ -28,15 +28,15 @@ Agradecimento especial ao expert **[Felipe Silva Aguiar](https://github.com/feli
 ---
 
 ## 🛠️ Instalação e Uso
-**Inicie a aplicação**: No terminal do VC Code:
+**Instalar as Dependências:
 ```bash
-npm run start:dev
+npm install
 ```
-
+**Iniciar a Aplicação:
 ```bash
 npm run start:watch
 ```
-
+**O servidor estará rodando em http://localhost:3333
 ---
 
 ## 🏎️💨 Endpoints (Objetivo da Aplicação)
