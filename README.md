@@ -13,8 +13,6 @@ focada em fornecer apenas o  `essencial ` para o consumo de dados, sem a complex
 Projeto desenvolvido **Formação Node.js Fundamentals**. da [Digital Innovation One (DIO)](https://www.dio.me/).
 Agradecimento especial ao expert **[Felipe Silva Aguiar](https://github.com/felipeAguiarCode)** (@felipeAguiarCode) pela didática impecável, pelo boilerplate fornecido para o projeto base e por compartilhar conhecimentos fundamentais sobre a criação de **Minimal APIs** utilizando **Node.js**, **Fastify** e **TypeScript**.
 
-* Refatorado por: [Higor de Campos](https://github.com/HigorCamposGit).*
-
 ---
 ## 🛠️ Tecnologias Utilizadas
 
