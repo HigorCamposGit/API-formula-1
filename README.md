@@ -13,7 +13,7 @@ focada em fornecer apenas o  `essencial ` para o consumo de dados, sem a complex
 Projeto desenvolvido **Formação Node.js Fundamentals**. da [Digital Innovation One (DIO)](https://www.dio.me/).
 Agradecimento especial ao expert **[Felipe Silva Aguiar](https://github.com/felipeAguiarCode)** (@felipeAguiarCode) pela didática impecável, pelo boilerplate fornecido para o projeto base e por compartilhar conhecimentos fundamentais sobre a criação de **Minimal APIs** utilizando **Node.js**, **Fastify** e **TypeScript**.
 
-*Refatorado e mantido por [Higor de Campos](https://github.com/HigorCamposGit).*
+* Refatorado por: [Higor de Campos](https://github.com/HigorCamposGit).*
 
 ---
 ## 🛠️ Tecnologias Utilizadas
@@ -49,6 +49,13 @@ A API disponibiliza para receber requisições (Rotas) HTTP e devolver informaç
 - `http://localhost:3333/circuits`. Circuito.
 
 ---
+
+## 🤝 Conecte-se Comigo
+
+<p align="center">
+  <img src="https://github.com/HigorCamposGit.png" width="100px" style="border-radius: 50%;" alt="Foto de Higor de Campos" /><br />
+  <b>Projeto atualizado por:</b> <a href="https://github.com/HigorCamposGit">Higor de Campos</a>
+</p>
 
 ---
 
