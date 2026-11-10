@@ -1,8 +1,8 @@
-# Desa fio - Criando uma Minimal API da Fórmula 1 com Node.js e Fastify
+# Desafio - Criando uma Minimal API da Fórmula 1 com Node.js e Fastify
 
 ---
 
-**Minimal API da Fórmula 1**, um projeto desenvolvido com **Node.js** e **Fastify** contendo, pilotos, equipes, circuitos da Fórmula 1 atualizado até 2026. 
+**Minimal API da Fórmula 1**, um projeto desenvolvido com **Node.js** e **Fastify** contendo, pilotos, equipes, circuitos da Fórmula 1, atualizado até 2026. 
 Aplicação minima para **Formação Node.js Fundamentals**. implementação rápida.
 **Fastify** é um framework web minimalista, extremamente rápido e de baixíssimo  `overhead ` desenvolvido para a plataforma **Node.js**. Inspirado no  `Express ` e  `Hapi `, 
 ele foi desenhado desde a origem para entregar a melhor performance possível na construção de **APIs RESTful** e aplicações backend
@@ -16,11 +16,21 @@ Agradecimento especial ao expert **[Felipe Silva Aguiar](https://github.com/feli
 *Refatorado e mantido por [Higor de Campos](https://github.com/HigorCamposGit).*
 
 ---
+## 🛠️ Tecnologias Utilizadas
+
+- **[Node.js](https://nodejs.org/)** — Ambiente de execução JavaScript no lado do servidor.
+- **[Fastify](https://fastify.dev/)** — Framework web focado em alta performance e baixo overhead.
+- **[TypeScript](https://www.typescriptlang.org/)** — Superset do JavaScript com tipagem estática e segurança de código.
+- **[tsx](https://github.com/privatenumber/tsx)** — Executador de TypeScript com suporte a *watch mode* e recarregamento automático.
+- **[tsup](https://tsup.egoist.dev/)** — Bundler ultrarrápido para compilação e empacotamento do projeto para produção.
+- **[@fastify/cors](https://github.com/fastify/fastify-cors)** — Plugin para gerenciamento de permissões de origens cruzadas (CORS).
+- **[VS Code](https://code.visualstudio.com/)** — Ambiente de desenvolvimento integrado (IDE).
+- **[Git](https://git-scm.com/)** & **[GitHub](https://github.com/)** — Controle de versão distribuído e hospedagem de código-fonte.
+  
+---
 
 ## 🛠️ Instalação e Uso
-**Inicie a aplicação**:
-
-No terminal do VC Code:
+**Inicie a aplicação**: No terminal do VC Code:
 ```bash
 npm run start:dev
 ```
@@ -38,6 +48,8 @@ A API disponibiliza para receber requisições (Rotas) HTTP e devolver informaç
 - `http://localhost:3333/drivers/drivers/id`. Piloto Específico.
 - `http://localhost:3333/circuits`. Circuito.
 
+---
+
+---
 
 
-A API estará disponível em . Insira os endpoints conforme desejar utilizar.
